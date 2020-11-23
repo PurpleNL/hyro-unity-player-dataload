@@ -1,17 +1,17 @@
 ﻿using Newtonsoft.Json;
 using PureMVC.Interfaces;
 using PureMVC.Patterns.Command;
-using UnityPureMVC.Core.Controller.Notes;
-using UnityPureMVC.Core.Libraries.UnityLib.Utilities.Logging;
-using UnityPureMVC.Core.Model.VO;
-using UnityPureMVC.Modules.DataLoader.Controller.Notes;
-using UnityPureMVC.Modules.DataLoader.Model.VO;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.Networking;
+using UnityPureMVC.Core.Controller.Notes;
+using UnityPureMVC.Core.Libraries.UnityLib.Utilities.Logging;
+using UnityPureMVC.Core.Model.VO;
+using UnityPureMVC.Modules.DataLoader.Controller.Notes;
+using UnityPureMVC.Modules.DataLoader.Model.VO;
 
 namespace UnityPureMVC.Modules.DataLoader.Controller.Commands
 {

@@ -2,10 +2,10 @@
 {
     using PureMVC.Interfaces;
     using PureMVC.Patterns.Facade;
-    using UnityPureMVC.Modules.DataLoader.Controller.Commands;
-    using UnityPureMVC.Modules.DataLoader.Controller.Notes;
     using System;
     using UnityEngine;
+    using UnityPureMVC.Modules.DataLoader.Controller.Commands;
+    using UnityPureMVC.Modules.DataLoader.Controller.Notes;
 
     internal class DataLoaderModule : MonoBehaviour
     {
